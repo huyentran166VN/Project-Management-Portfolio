@@ -29,16 +29,6 @@ I am a **Project Manager** with over **7+ years of experience** in **Agile softw
 
 ---
 
-## 📂 Project Management Resources
-Here are some resources I use for Agile project management:
-
-📌 [Agile Sprint Planning Template](#)  
-📌 [Jira Workflow for SaaS Development](#)  
-📌 [Project Management KPI Dashboard](#)  
-📌 [Low-Code Development Best Practices](#)  
-
----
-
 ## 💡 Why Work With Me?
 ✔ **Proven success** in leading Agile projects from ideation to launch  
 ✔ **Strong business mindset** with experience in **startups & enterprises**  
